@@ -1,2 +1,3 @@
-# pro-docs-site-juud
-Automated issue comment bot repository
+# Pro Docs Site Juud
+
+Automated issue comment bot repository.
